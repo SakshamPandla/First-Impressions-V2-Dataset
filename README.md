@@ -10,7 +10,7 @@ size_categories:
 - 1K<n<10K
 ---
 
-# Dataset Card for Dataset Name
+# Dataset Card for First Impressions V2
 
 The first impressions data set, comprises 10000 clips (average duration 15s) extracted from more than 3,000 different YouTube high-definition (HD) videos of people facing and speaking in English to a camera. The videos are split into training, validation and test sets with a 3:1:1 ratio. People in videos show different gender, age, nationality, and ethnicity.
 
